@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+*.npy
+FASHION_DATA/*
+MNIST_DATA/*
